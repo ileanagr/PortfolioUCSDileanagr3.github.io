@@ -1,0 +1,155 @@
+#title {
+    background-color: #72c0f7;
+    position: relative;
+    text-align: center;
+    border: solid;
+    border-color: #E0F4FF;
+    padding: 1%;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: +1;
+}
+.container2 {
+    padding: 3% 3% 3%;
+    background-color: #E0F4FF;
+    border: ridge;
+    border-radius: 20px;
+    border-color: #72c0f7;
+    text-align: center;
+    margin-top: 30px;
+}
+#introduction {
+    background-color: #6DB9EF;
+    padding: 10% 9% 2%;
+    margin-top: 30px;
+}
+h1 {
+    font-family: 'Rethink Sans';
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #0f0f18;
+    padding: 8%;
+    text-align: center;
+}
+h2 {
+    font-family: 'Rethink Sans';
+    font-size: 1.5;
+    font-weight: bold;
+    color:#0f0f18;
+}
+h3 {
+    font-family: 'Work Sans';
+    font-weight: bolder;
+    color: #1B1B2F;
+    padding: 4%;
+}
+p {
+    color:#1B1B2F;
+    font-family: 'Rethink Sans';
+}
+.navbar {
+    background-color: #6DB9EF;
+
+}
+.navbar-brand {
+    font-family:'Rethink Sans';
+    font-size: 3rem;
+    font-weight: bold;
+    color:#0f0f18;
+    float: left;
+    display: block;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+.nav-item {
+    padding: 0 15px;
+}
+.nav-link {
+    font-family: 'Rethink Sans';
+    font-size: 1.6rem;
+    font-weight: bold;
+    color:#1B1B2F;
+    float: right;
+    display: block;
+}
+.nav-link:hover {
+    color: #F6F4EB;
+}
+#pricing {
+    padding: 2% 10%;
+    text-align: center;
+    background-color: #6DB9EF;
+}
+.pricing-header {
+    color: #0f0f18;
+    font-size: 3rem;
+    padding: 2%;
+    margin-top: 30px;
+}
+.pricing-column {
+    padding: 3% 2%;
+    background-color: #E0F4FF;
+    border: groove;
+    border-color: #72c0f7;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.pricing-column-img {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+}
+.my-button {
+    background-color: #6DB9EF;
+    font-family: 'Work Sans';
+    font-size: 1.5rem;
+    border: #00A9FF;
+    color: #E0F4FF;
+    border-radius: 7px;
+    padding: 1.5%;
+    bottom: 0;
+    margin-top: 30px;
+}
+#infographic {
+    background-color: #6DB9EF;
+    padding: 1.5% 5%;
+}
+.infographic-header {
+    color: #0f0f18;
+    font-size: 3rem;
+    padding: 2%;
+    margin-top: 30px;
+}
+.infoexamples {
+    padding:6% 3% 0%;
+    background-color: #E0F4FF;
+    border: ridge;
+    border-radius: 20px;
+    border-color: #72c0f7;
+    text-align: center;
+    margin-top: 30px;
+}
+.infocolumn {
+    padding: 3% 2%;
+    background-color: #E0F4FF;
+    margin-top: 30px;
+}
+#moretosee {
+    background-color: #6DB9EF;
+    font-family: 'Work Sans';
+    font-size: 2rem;
+    text-align: center;
+    color:#0f0f18;
+    padding: 5% 25%;
+}
+#footer {
+    padding: 2% 45%;
+    text-align: center;
+    font-size: 1rem;
+    background-color: #72c0f7;
+}
